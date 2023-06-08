@@ -32,7 +32,7 @@ import tripguide from "./tripguide.png";
 import pharmacy from './pharmacy.png'
 import syllabus_management from './syllabus_management.jpg'
 import ai_tetris from './ai_tetris.jpg'
-import dharahara from './dharahara.jpeg'
+import dharahara from './dharahara.jpg'
 
 export {
   logo,
